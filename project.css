@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+id{
+    color: aqua;
+    font-size:medium
+}
+div1 {
+    color:blue;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-size: medium;
+}
+ div2{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-size: medium;
+}
+div3{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-size: medium;
+}
+div4{
+    background-color: blue;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-size: medium;
+}
+div5{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-size: medium;
+}
